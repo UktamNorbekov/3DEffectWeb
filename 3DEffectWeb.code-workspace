@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../parallax-3d-lens-effect-website/libs"
+		},
+		{
+			"path": "../parallax-3d-lens-effect-website/img"
+		},
+		{
+			"path": "../parallax-3d-lens-effect-website/fonts"
+		}
+	],
+	"settings": {}
+}
